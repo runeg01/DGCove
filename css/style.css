@@ -4,3 +4,16 @@
     margin-top: 50px;
 
 }
+#content_landing{
+    text-align: center;
+    padding-top: 25%;
+}
+#content_login{
+    text-align: center;
+    padding-top: 25%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+#card_style{
+    margin-top:15%
+}
